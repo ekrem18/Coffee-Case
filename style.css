@@ -1,1 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(64,50,34);
+    background: linear-gradient(270deg, rgba(64,50,34,1) 0%, rgba(140,82,48,1) 53%, rgba(217,194,173,1) 100%);
+}
+
+h1{
+    font-family: 'Nosifer', cursive;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.164);
+    margin: 20px 80px;
+    border-radius: 0 55px;
+}
+
+.img{
+    width: 30%;
+    margin: 20px;
+    
+}
+
+.img:hover{
+    width: 35%;
+}
+
+.ortak h2{
+    font-family: 'Kings', cursive;
+    text-shadow: 5px 5px 3px #00000049;
+    font-size: 40px;
+}
+
+.ortak{
+    background-color: #D9C2AD;
+    border-radius: 20px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    justify-content: center;
+}
+
+.ortak p{
+    background-color: #d99f6c33;
+    border-radius: 20px;
+    margin: 20px 0;
+    padding: 10px;
+    text-indent: 20px; 
+}
+
+.button{
+    background-color: #733E20;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    margin-bottom: 20px;
+    float: right;
+    border-radius: 0 55px;
+   
+
+}
+
+.button:hover{
+    background-color: #D9C2AD;
+    color: chocolate;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
